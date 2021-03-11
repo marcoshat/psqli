@@ -77,7 +77,7 @@ Powerfull Automatic Sql injection Tools Pack
   ```bash
 $ pkg install bash curl git
 $ git clone https://github.com/Kedjaw3n/psqli
-$ cd psqli-pro
+$ cd psqli
 $ bash psqli.sh
 $ bash psqli.sh s #untuk string based injection only
 $ bash psqli.sh y #untuk debug mode
